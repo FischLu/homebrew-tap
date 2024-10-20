@@ -1,5 +1,5 @@
 cask "calendr" do
-    version "1.13.3"
+    version "1.14.0"
   
     url "https://github.com/pakerwreah/Calendr/releases/download/v#{version}/Calendr.zip"
 
